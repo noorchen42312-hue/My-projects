@@ -1,2 +1,3 @@
 # My-projects
 This is my First Git Reposotory and will continous posting all my projects.
+soo from here i can add some of the other deatils. from long time I was looking for this options. Men I Found it....
